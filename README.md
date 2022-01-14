@@ -1,6 +1,6 @@
 # Front End Developer Intern Challenge - Summer 2022
 
-# To run this project , we need to run 2 commands, i.e., 
+ To run this project , we need to run 2 commands, i.e., 
 
  - npm install 
  - npm run serve
