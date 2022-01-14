@@ -152,7 +152,7 @@ export default {
     getDate(){
       setTimeout(() =>{
         this.getFilters();
-      },30000)
+      },500)
 
    },
     active() {
