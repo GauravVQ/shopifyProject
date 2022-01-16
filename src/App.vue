@@ -30,4 +30,9 @@ body{
   background-size: cover;
   overflow-y: hidden;
 }
+@media screen and (max-width: 900px) {
+  body {
+    overflow-y: auto !important;
+  }
+}
 </style>

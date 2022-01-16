@@ -242,4 +242,17 @@ svg.like g {
 svg.dislike g {
   fill: red;
 }
+@media screen and (max-width: 900px) {
+  .container{
+    width: 100% !important;
+    padding: 0px !important;
+  }
+  img.card-img {
+    height: 100% !important;
+    width: 100% !important;
+  }
+  .card-inner{
+    display: block !important;
+  }
+}
 </style>
